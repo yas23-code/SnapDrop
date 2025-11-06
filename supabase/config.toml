@@ -1,0 +1,4 @@
+project_id = "jzudvdrlaekbiftywodf"
+
+[functions.download-file]
+verify_jwt = false
